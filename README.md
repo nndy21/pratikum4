@@ -4,7 +4,8 @@
 Kodingan ini bertujuan untuk membuat aplikasi konsol sederhana menggunakan Python yang berfungsi sebagai alat Manajemen Data dan Nilai Akademik Mahasiswa.
 ---
 ## flowchart 
-<img width="261" height="921" alt="index" src=flowchart.png />
+<img width="261" height="921" alt="flowchart" src="https://github.com/user-attachments/assets/93654360-fee3-4748-9ef4-e7fa3ab5b397" />
+
 
 ## penjelasan flowchart
 PENJELASAN FLOWCHART
